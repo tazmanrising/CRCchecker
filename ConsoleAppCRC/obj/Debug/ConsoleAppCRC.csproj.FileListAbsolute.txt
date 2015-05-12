@@ -1,0 +1,6 @@
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\bin\Debug\ConsoleAppCRC.exe.config
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\obj\Debug\ConsoleAppCRC.csprojResolveAssemblyReference.cache
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\bin\Debug\ConsoleAppCRC.exe
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\bin\Debug\ConsoleAppCRC.pdb
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\obj\Debug\ConsoleAppCRC.exe
+C:\projects\eldosFile\ConsoleAppCRC\ConsoleAppCRC\obj\Debug\ConsoleAppCRC.pdb
